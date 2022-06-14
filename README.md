@@ -1,4 +1,5 @@
 # SlideShareDownloader 
+SlideShare Downloader is a tool to download any presentations from slideshare. It is very helpful for student to download presentaions.
 
 https://slideshare.pptdownloader.com/
 
